@@ -1,12 +1,12 @@
-## Hi there 👋
+# ✨T4F1 스터디✨
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed3c2a9f-c71e-49c5-b990-735a9d7ec176" alt="image">
+  
+## 팀원
 
-<!--
+|  백제완  |  신예지 |  김채연  |  박성열  |  김은수  |
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+| ESTJ  | ISTJ  | ENFP  |  ENTP | ISTP  |
+| 알고리즘 팀장(?)  | 계획 담당  | 분위기 담당  | 팀장이었던 사람(실제팀장) | 피글렛 담당  |
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
