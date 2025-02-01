@@ -8,6 +8,6 @@
 |:---------:|:---------:|:---------:|:---------:|:---------:|
 | ESTP  | ISTJ  | ENFP  |  ENTP | ISTP  |
 | 알고리즘 팀장(?)  | 계획 담당  | 분위기 담당  | 팀장이었던 사람(실제팀장) | 피글렛 담당  |
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jewan)](https://solved.ac/jewan) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/lovelyyeji01) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=cy8432)](https://solved.ac/cy8432) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeoli)](https://solved.ac/yeoli) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=oz122)](https://solved.ac/oz122) | 
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jewan)](https://solved.ac/profile/jewan) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lovelyyeji01)](https://solved.ac/profile/lovelyyeji01) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=cy8432)](https://solved.ac/profile/cy8432) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeoli)](https://solved.ac/profile/yeoli) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=oz122)](https://solved.ac/profile/oz122) | 
 
 </div>
